@@ -1,7 +1,7 @@
 import requests
 
 # Target URL (Change this)
-TARGET_URL = "http://people.juspay.net"
+TARGET_URL = "http://testingURL.tld"
 
 # List of malicious Host headers to test
 HOST_HEADERS = [
