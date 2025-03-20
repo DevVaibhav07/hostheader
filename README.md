@@ -71,3 +71,6 @@ Contributions, issues, and feature requests are welcome!
 Your Name - Vaibhav Kubade (vaibhavkubade.in)
 
 <img width="658" alt="HostHeaderPOC" src="https://github.com/user-attachments/assets/705bcb46-ae1f-42f4-a3f9-ba6c3e9455d3" />
+
+## How does this tool work?
+<img width="1011" alt="Screenshot 2025-03-21 at 02 27 17" src="https://github.com/user-attachments/assets/f12b04e8-5656-47f0-8113-18519f5b561d" />
